@@ -1,1 +1,124 @@
-<mxfile host="app.diagrams.net" modified="2022-01-20T17:18:11.988Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" version="16.4.3" etag="9uB89Np_qKUtjuw8fE_R" type="github"><diagram id="rxhqEHGXYFw4PnwwlmhT">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-01-20T17:24:18.762Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="S2FtKST5tNflcRriC9r6" version="16.4.3" type="github">
+  <diagram id="rxhqEHGXYFw4PnwwlmhT" name="Page-1">
+    <mxGraphModel dx="1107" dy="1040" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Q4Y8JpjOBunjWndgIZBP-1" value="Зарплата сотрудников" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fontStyle=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="10" y="455" width="380" height="235" as="geometry" />
+        </mxCell>
+        <mxCell id="Q4Y8JpjOBunjWndgIZBP-2" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Q4Y8JpjOBunjWndgIZBP-1">
+          <mxGeometry y="30" width="380" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="Q4Y8JpjOBunjWndgIZBP-3" value="№" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="Q4Y8JpjOBunjWndgIZBP-2">
+          <mxGeometry width="34" height="32" as="geometry">
+            <mxRectangle width="34" height="32" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q4Y8JpjOBunjWndgIZBP-4" value="ФИО" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="Q4Y8JpjOBunjWndgIZBP-2">
+          <mxGeometry x="34" width="263" height="32" as="geometry">
+            <mxRectangle width="263" height="32" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q4Y8JpjOBunjWndgIZBP-5" value="ЗП начислено" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="Q4Y8JpjOBunjWndgIZBP-2">
+          <mxGeometry x="297" width="83" height="32" as="geometry">
+            <mxRectangle width="83" height="32" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q4Y8JpjOBunjWndgIZBP-6" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Q4Y8JpjOBunjWndgIZBP-1">
+          <mxGeometry y="62" width="380" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Q4Y8JpjOBunjWndgIZBP-7" value="1" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="Q4Y8JpjOBunjWndgIZBP-6">
+          <mxGeometry width="34" height="80" as="geometry">
+            <mxRectangle width="34" height="80" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q4Y8JpjOBunjWndgIZBP-8" value="Василий Петров Иванович" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="Q4Y8JpjOBunjWndgIZBP-6">
+          <mxGeometry x="34" width="263" height="80" as="geometry">
+            <mxRectangle width="263" height="80" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q4Y8JpjOBunjWndgIZBP-9" value="100000" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="Q4Y8JpjOBunjWndgIZBP-6">
+          <mxGeometry x="297" width="83" height="80" as="geometry">
+            <mxRectangle width="83" height="80" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q4Y8JpjOBunjWndgIZBP-10" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Q4Y8JpjOBunjWndgIZBP-1">
+          <mxGeometry y="142" width="380" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="Q4Y8JpjOBunjWndgIZBP-11" value="2" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="Q4Y8JpjOBunjWndgIZBP-10">
+          <mxGeometry width="34" height="93" as="geometry">
+            <mxRectangle width="34" height="93" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q4Y8JpjOBunjWndgIZBP-12" value="Марья Ивановна Петрова" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="Q4Y8JpjOBunjWndgIZBP-10">
+          <mxGeometry x="34" width="263" height="93" as="geometry">
+            <mxRectangle width="263" height="93" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q4Y8JpjOBunjWndgIZBP-13" value="50000" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="Q4Y8JpjOBunjWndgIZBP-10">
+          <mxGeometry x="297" width="83" height="93" as="geometry">
+            <mxRectangle width="83" height="93" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q4Y8JpjOBunjWndgIZBP-14" value="Отработанные часы сотридников" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fontStyle=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="414" y="455" width="396" height="235" as="geometry" />
+        </mxCell>
+        <mxCell id="Q4Y8JpjOBunjWndgIZBP-15" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Q4Y8JpjOBunjWndgIZBP-14">
+          <mxGeometry y="30" width="396" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="Q4Y8JpjOBunjWndgIZBP-16" value="№" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="Q4Y8JpjOBunjWndgIZBP-15">
+          <mxGeometry width="40" height="41" as="geometry">
+            <mxRectangle width="40" height="41" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q4Y8JpjOBunjWndgIZBP-17" value="ФИО" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="Q4Y8JpjOBunjWndgIZBP-15">
+          <mxGeometry x="40" width="268" height="41" as="geometry">
+            <mxRectangle width="268" height="41" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q4Y8JpjOBunjWndgIZBP-18" value="Отработано часов" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="Q4Y8JpjOBunjWndgIZBP-15">
+          <mxGeometry x="308" width="88" height="41" as="geometry">
+            <mxRectangle width="88" height="41" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q4Y8JpjOBunjWndgIZBP-19" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Q4Y8JpjOBunjWndgIZBP-14">
+          <mxGeometry y="71" width="396" height="82" as="geometry" />
+        </mxCell>
+        <mxCell id="Q4Y8JpjOBunjWndgIZBP-20" value="1" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="Q4Y8JpjOBunjWndgIZBP-19">
+          <mxGeometry width="40" height="82" as="geometry">
+            <mxRectangle width="40" height="82" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q4Y8JpjOBunjWndgIZBP-21" value="&lt;span&gt;Василий Петров Иванович&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="Q4Y8JpjOBunjWndgIZBP-19">
+          <mxGeometry x="40" width="268" height="82" as="geometry">
+            <mxRectangle width="268" height="82" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q4Y8JpjOBunjWndgIZBP-22" value="120" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="Q4Y8JpjOBunjWndgIZBP-19">
+          <mxGeometry x="308" width="88" height="82" as="geometry">
+            <mxRectangle width="88" height="82" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q4Y8JpjOBunjWndgIZBP-23" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Q4Y8JpjOBunjWndgIZBP-14">
+          <mxGeometry y="153" width="396" height="82" as="geometry" />
+        </mxCell>
+        <mxCell id="Q4Y8JpjOBunjWndgIZBP-24" value="2" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="Q4Y8JpjOBunjWndgIZBP-23">
+          <mxGeometry width="40" height="82" as="geometry">
+            <mxRectangle width="40" height="82" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q4Y8JpjOBunjWndgIZBP-25" value="&lt;span&gt;Марья Ивановна Петрова&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="Q4Y8JpjOBunjWndgIZBP-23">
+          <mxGeometry x="40" width="268" height="82" as="geometry">
+            <mxRectangle width="268" height="82" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q4Y8JpjOBunjWndgIZBP-26" value="60" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="Q4Y8JpjOBunjWndgIZBP-23">
+          <mxGeometry x="308" width="88" height="82" as="geometry">
+            <mxRectangle width="88" height="82" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
