@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-20T16:58:44.482Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="kN9esm46O7l1wvQkwIOH" version="16.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-20T16:59:08.169Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="jJ546i7aOqOqdbNWG-aX" version="16.4.3" type="github">
   <diagram id="BF9KEsjJ5s4kUx57CTs8" name="Page-1">
     <mxGraphModel dx="1107" dy="1040" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,10 +8,10 @@
           <mxGeometry x="280" y="310" width="280" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gkYRsQwrLpy73xuWs0zi-2" value="Бизнес-логика (Entities)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="430" width="280" height="60" as="geometry" />
+          <mxGeometry x="280" y="420" width="280" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gkYRsQwrLpy73xuWs0zi-3" value="Данные (API)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="540" width="280" height="60" as="geometry" />
+          <mxGeometry x="280" y="530" width="280" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gkYRsQwrLpy73xuWs0zi-5" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="gkYRsQwrLpy73xuWs0zi-3" target="gkYRsQwrLpy73xuWs0zi-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
